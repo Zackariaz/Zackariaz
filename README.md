@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zackariaz
-- 👀 I’m interested in Games, open source projects, learning
+- 👀 I’m interested in Games, open source projects, learning and modding, im trying to mod a model to gta SA for the first time rn lolz
 - 🌱 I’m currently learning CS50
 - 💞️ I’m looking to on the future collaborate on open projects im kinda of a newbie soo im looking up to watch and do the CS50 Stuff and im dont know how this website works so im just gonna like heheh learn with time
 - 📫 How to reach me i'll update here as time goes by.
